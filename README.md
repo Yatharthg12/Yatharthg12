@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Computer Science Major at SRMIST-KTR<br>👯 I’m currently working on several research analysis and machine learning projects<br>🤝 I’m looking for publishing research papers and developing projects<br>🌱 I’m currently learning more about Machine Learning Algorithms and Quantitative Analysis<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a Computer Science Major at SRMIST-KTR<br>👯 I’m currently working on several research analysis and machine learning projects<br>🤝 I’m looking for publishing research papers and developing projects<br>🌱 I’m currently learning more about Machine Learning Algorithms and Quantitative Analysis<br>💬 Ask me about strong development projects and skills in machine learning and deep learning<br>
 
 
 ## 🌐 Socials:
